@@ -3,7 +3,7 @@
 OCR represents Optical Character Recognition. It is a cycle of transformation of composed pictures, printed text into the machine-encoded text, which implies it will give us a text from images that contain the text.
 
 <img src="https://github.com/vaibhavhariaramani/Text-Scanner-App-using-OCR-Computer-Vision/blob/main/project%20image/Screenshot_20210208-173137.jpg"  height="30" width="150">
-<img src="https://github.com/vaibhavhariaramani/Text-Scanner-App-using-OCR-Computer-Vision/blob/main/project%20image/Screenshot_20210208-173127.jpg"  height="30" width="150">
+<img src="https://github.com/vaibhavhariaramani/Text-Scanner-App-using-OCR-Computer-Vision/blob/main/project%20image/Screenshot_20210208-173127.jpg" align='center' height="30" width="150">
 <img src="https://github.com/vaibhavhariaramani/Text-Scanner-App-using-OCR-Computer-Vision/blob/main/project%20image/Screenshot_20210208-173132.jpg"   height="30" width="150">
 
 # Resources 
